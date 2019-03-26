@@ -3,7 +3,7 @@ Share you're thoughts and opinions in the issue section. We check this repositor
 If you want to see the current "state" we're in, check here: https://github.com/users/dehys/projects/1
 
 ### COLLECTIONS
-1.1 Green Wood \
+1.1 Green Woods \
 1.2 Comet Riders \
 1.3 Deris Nest \
 1.4 Overtaken \
