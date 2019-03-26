@@ -1,6 +1,7 @@
 {
 	"name": {
 		"type": "mage",
+		"teir": 2,
 		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "wind",
@@ -14,6 +15,7 @@
 	
 	"name": {
 		"type": "mage",
+		"teir": 1,
 		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "wind",
