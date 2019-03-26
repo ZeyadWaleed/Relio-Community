@@ -1,0 +1,12 @@
+{
+	"name": {
+		"type": "champion",
+		"league": "Green Woods",
+		"description": "Lorem Ipsum Dolor",
+		"health_points": 40,
+		"abilities": {
+			"ultimate": "Lorem Ipsum Dolor",
+			"passive": "Lorem Ipsum Dolor"
+		}
+	}	
+}

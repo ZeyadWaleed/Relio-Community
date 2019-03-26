@@ -1,0 +1,40 @@
+{
+	"name": {
+		"type": "creature",
+		"league": "Green Woods",
+		"description": "Lorem Ipsum Dolor",
+		"element": "fire",
+		"attack_points": 2,
+		"health_points": 2,
+		"mana_cost": 2
+		"spells":{
+			"bullwark": false
+		}
+	}
+	
+	"name": {
+		"type": "creature",
+		"league": "Green Woods",
+		"description": "Lorem Ipsum Dolor",
+		"element": "fire",
+		"attack_points": 5,
+		"health_points": 5,
+		"mana_cost": 8
+		"spells": {
+			"bullwark": false
+		}
+	}
+	
+	"name": {
+		"type": "creature",
+		"league": "Green Woods",
+		"description": "Lorem Ipsum Dolor",
+		"element": "fire",
+		"attack_points": 2,
+		"health_points": 2,
+		"mana_cost": 2
+		"spells":{
+			"bullwark": true
+		}
+	}
+}

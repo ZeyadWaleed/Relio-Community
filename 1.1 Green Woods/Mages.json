@@ -1,0 +1,27 @@
+{
+	"name": {
+		"type": "mage",
+		"league": "Green Woods",
+		"description": "Lorem Ipsum Dolor",
+		"element": "wind",
+		"attack_points": 2,
+		"health_points": 2,
+		"mana_cost": 2,
+		"abilities": {
+			"passive": "Give all creatures +1/+1"
+		}
+	}
+	
+	"name": {
+		"type": "mage",
+		"league": "Green Woods",
+		"description": "Lorem Ipsum Dolor",
+		"element": "wind",
+		"attack_points": 1,
+		"health_points": 1,
+		"mana_cost": 2,
+		"abilities": {
+			"passive": "Give all creatures +0/+5"
+		}
+	}
+}
