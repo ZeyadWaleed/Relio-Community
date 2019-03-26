@@ -1,7 +1,7 @@
 {
 	"name": {
 		"type": "champion",
-		"league": "Green Woods",
+		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"health_points": 40,
 		"abilities": {
