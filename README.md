@@ -1,5 +1,5 @@
 # Relio-Community
-Share you're thoughts and opinions. We check this repository daily ;)
+Share you're thoughts and opinions in the issue section. We check this repository daily ;)
 
 ### COLLECTIONS
 1.1 Green Wood \
