@@ -6,7 +6,7 @@
 		"element": "fire",
 		"attack_points": 2,
 		"health_points": 2,
-		"mana_cost": 2
+		"mana_cost": 2,
 		"spells": {
 			"bullwark": false
 		}
@@ -19,7 +19,7 @@
 		"element": "fire",
 		"attack_points": 5,
 		"health_points": 5,
-		"mana_cost": 8
+		"mana_cost": 8,
 		"spells": {
 			"bullwark": false
 		}
@@ -32,7 +32,7 @@
 		"element": "fire",
 		"attack_points": 2,
 		"health_points": 2,
-		"mana_cost": 2
+		"mana_cost": 2,
 		"spells": {
 			"bullwark": true
 		}
