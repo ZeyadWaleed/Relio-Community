@@ -1,6 +1,7 @@
 {
 	"name": {
 		"type": "creature",
+		"teir": 1,
 		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "fire",
@@ -14,6 +15,7 @@
 	
 	"name": {
 		"type": "creature",
+		"teir": 3,
 		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "fire",
@@ -27,6 +29,7 @@
 	
 	"name": {
 		"type": "creature",
+		"teir": 2,
 		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "fire",
