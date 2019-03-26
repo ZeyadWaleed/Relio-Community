@@ -8,4 +8,4 @@ Abilities:
 
 No Element.
 
-Base health, 40.
+Base health, 40..
