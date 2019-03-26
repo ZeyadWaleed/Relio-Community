@@ -7,4 +7,4 @@ Share you're thoughts and opinions in the issue section. We check this repositor
 1.3 Deris Nest \
 1.4 Overtaken \
 1.5 Xorits Return \
-1.6 Zeta Dealers 
+1.6 Zeta Desires
