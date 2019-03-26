@@ -1,7 +1,7 @@
 # Relio-Community
 Share you're thoughts and opinions. We check this repository daily ;)
 
-## COLLECTIONS
+### COLLECTIONS
 1.1 Green Wood
 1.2 Comet Riders
 1.3 Deris Nest
