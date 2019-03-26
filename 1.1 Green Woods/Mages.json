@@ -1,7 +1,7 @@
 {
 	"name": {
 		"type": "mage",
-		"league": "Green Woods",
+		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "wind",
 		"attack_points": 2,
@@ -10,11 +10,11 @@
 		"abilities": {
 			"passive": "Give all creatures +1/+1"
 		}
-	}
+	},
 	
 	"name": {
 		"type": "mage",
-		"league": "Green Woods",
+		"collection": "Green Woods",
 		"description": "Lorem Ipsum Dolor",
 		"element": "wind",
 		"attack_points": 1,
