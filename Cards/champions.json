@@ -1,0 +1,9 @@
+{
+	"name": {
+		"card_id": ,
+		"card_collection": 1,
+		"card_description": "Lorem Ipsum Dolor",
+		"card_health_points": 40,
+		"card_abilities": []
+	}
+}

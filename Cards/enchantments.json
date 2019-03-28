@@ -1,0 +1,10 @@
+{
+  "name": {
+		"card_id": ,
+		"card_teir": 1,
+		"card_collection": 1,
+		"card_description": "Lorem Ipsum Dolor",
+		"card_league": "terra",
+		"card_mana_cost": 2,
+	}
+}
